@@ -13,16 +13,20 @@
 
 * 用图或表格表达它们之间的关系与区别，使得读者更容易理解；
   * projects、programs、和 portfolio 之间的关系:<br>
+  
    ![](3.png)
    ![](1.png)
    ![](2.png)
+
   <b>用一个简单的例子来理解:</b>如果承办奥运会是个Portfolio，那么体育馆建设，完善交通设施，奥运文化宣传这些Programs就是这个Portfolio组成部分。而体育馆建设作为Program，下面包含很多相似的Projects，比如游泳馆、篮球馆项目建设等。
 
 
   * projects、programs、和 portfolio以及与operations以及OPM之间的关系:<br>
 作为项目组合或项目集的组成部分，项目是实现组织战略和目标的一种手段，常常应用于作为项目投资主要引导因素的战略规划之中。为了使项目符合组织的战略业务目标，对项目组合、项目集和项目进行系统化管理，可以应用组织级项目管理 (OPM)。<br>
-![](4.png)
+
+ ![](4.png)
 
   * projects、programs、和 portfolio 之间的关系对企业成功的贡献<br>
+  
   ![](5.png)
 
